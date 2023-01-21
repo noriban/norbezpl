@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Android Development, DevOps stuff: Ansible, Jenkins, CircleCI**
 
-- 👨‍💻 All of my projects are available at [https://noriban.netlify.app](https://noriban.netlify.app)
+- 👨‍💻 My portfolio is on [this link](https://noriban.netlify.app)
 
 - 📫 How to reach me **norbertrom01@gmail.com**
 - 
