@@ -8,7 +8,7 @@
 - 👨‍💻 My portfolio is on [this link](https://noriban.netlify.app)
 
 - 📫 You can reach my by email - **norbertrom01@gmail.com**
-- 
+
 <p align="left">
 </p>
 
