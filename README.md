@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AutoNote - Your car companion](https://github.com/noriban/AutoNote)
 
-- 🌱 I’m currently learning **Kotlin, Android Development, DevOps stuff: Ansible, Jenkins, CircleCI**
+- 🌱 I’m currently learning **Kotlin, Android Development, Svelte Framework, DevOps stuff: Ansible, Jenkins, Terrafom, CircleCI**
 
 - 👨‍💻 My portfolio is on [this link](https://noriban.netlify.app)
 
