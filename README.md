@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Norbert</h1>
-<h3 align="center">Student, programmer, DevOps passionate, OpenSource enthusiast.</h3>
+<h3 align="center">Programmer, DevOps/SRE, OpenSource enthusiast.</h3>
 
 - 🔭 I’m currently working on [AutoNote - Your car companion](https://github.com/noriban/AutoNote)
 
