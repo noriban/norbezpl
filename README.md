@@ -1,11 +1,7 @@
 <h1 align="center">Hello, I'm Norbert</h1>
 <h3 align="center">Programmer, DevOps/SRE, OpenSource enthusiast.</h3>
 
-- 🔭 I’m currently working on [AutoNote - Your car companion](https://github.com/noriban/AutoNote)
-
 - 🌱 I’m currently learning **Kotlin, Android Development, Svelte Framework, DevOps stuff: Ansible, Jenkins, Terrafom, CircleCI**
-
-- 👨‍💻 My portfolio is on [this link](https://noriban.netlify.app)
 
 - 📫 You can reach my by email - **norbertrom01@gmail.com**
 
